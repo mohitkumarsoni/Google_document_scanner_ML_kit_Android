@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ML Scanner</string>
+    <string name="scan_result">Scan Result </string>
+    <string name="error_default_message" translatable="false">Failed to scan: %1$s</string>
+</resources>
