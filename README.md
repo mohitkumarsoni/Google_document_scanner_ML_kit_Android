@@ -32,12 +32,6 @@ Boost productivity and streamline workflows by converting scanned documents into
 4. Run the App: Click the "Run" button in Android Studio, and select your connected device as the deployment target.
 5. Explore and Enjoy:The app will be installed and launched on your device. Explore the features, scan documents, and experience the power of intelligent document scanning!
 
-**Scrrenshots**
-
-![photo_2_2024-03-12_14-54-21](https://github.com/mohitkumarsoni/Google_document_scanner_ML_kit_Android/assets/108524949/5146373b-3fb9-432b-ab6b-097d8babd842)
-![photo_1_2024-03-12_14-54-21](https://github.com/mohitkumarsoni/Google_document_scanner_ML_kit_Android/assets/108524949/fe4cdee1-33f8-46f9-b2bf-6013a21f6edd)
-![photo_3_2024-03-12_14-54-21](https://github.com/mohitkumarsoni/Google_document_scanner_ML_kit_Android/assets/108524949/46e15464-b124-4e8b-9423-6f8328eefa98)
-
 **Video**
 
 https://github.com/mohitkumarsoni/Google_document_scanner_ML_kit_Android/assets/108524949/c7294d85-4a15-428a-85c6-96f3d7a67c8e
